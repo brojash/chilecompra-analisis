@@ -150,4 +150,5 @@ chilecompra-analisis/
 ## Autor
 
 **Benjamin Rojas Hernandez** · Ingeniero informático con interés en análisis de datos
+ 
 [LinkedIn](https://cl.linkedin.com/in/benjamin-rojas-hernandez-b13a76252) · [Correo](mailto:rojasb308@gmail.com)
